@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "22su_search_engine",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "22su_search_engine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-22su_search_engine-Debug-b1b082a34f4c4a13d1e5.json",
+					"name" : "22su_search_engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "22su_search_engine_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-22su_search_engine_tests-Debug-ad40239c3631eb0e7ef7.json",
+					"name" : "22su_search_engine_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cameronrosenberger/Downloads/GitHub/DataStructures/22su-search-engine-cameron-justin/cmake-build-debug",
+		"source" : "/Users/cameronrosenberger/Downloads/GitHub/DataStructures/22su-search-engine-cameron-justin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

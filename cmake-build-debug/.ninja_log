@@ -1,0 +1,12 @@
+# ninja log v5
+1	293	1656367144405043334	CMakeFiles/22su_search_engine_tests.dir/DataStructure_Tests.cpp.o	cdbdfe04a97e5a30
+2	472	1656433057066133541	CMakeFiles/22su_search_engine.dir/porter2_stemmer/porter2_stemmer.cpp.o	3e622d4d7134fccd
+2	307	1656032469065880197	CMakeFiles/22su_search_engine_tests.dir/AVLIntTree.cpp.o	b07f4ede79a48cb7
+1	626	1656617555756172721	CMakeFiles/22su_search_engine.dir/Query.cpp.o	28a92f063d162171
+0	3605	1656032472345845114	CMakeFiles/22su_search_engine_tests.dir/catch_setup.cpp.o	be0aee6277add171
+293	442	1656367144555158529	22su_search_engine_tests	441520b1e789ae0a
+627	683	1656617555815601373	22su_search_engine	4b1d4fb7d82da39f
+1	498	1656612481223658632	CMakeFiles/22su_search_engine.dir/main.cpp.o	5f4d75c6eb2d41ec
+0	59	1667579691961342670	build.ninja	7f93b5d1ab69fa3
+1	720	1656612572866426793	CMakeFiles/22su_search_engine.dir/DocumentParser.cpp.o	e4d940d1bf566a36
+16	893	1656616319712053925	CMakeFiles/22su_search_engine.dir/UI.cpp.o	22b8cc202ec672af
