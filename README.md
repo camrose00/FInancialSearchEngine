@@ -3,3 +3,6 @@
 
 Template repository. 
 
+Co-creator: Justin Chow
+
+https://github.com/Jchow404
